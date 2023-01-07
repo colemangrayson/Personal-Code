@@ -1,5 +1,5 @@
 """Practicing different techniques taught by ChatGPT"""
 
-for i in range(5):
-    print(i)
-    
+class Person(self, age, height, ethnicity):
+    def age(self):
+        print("age")
